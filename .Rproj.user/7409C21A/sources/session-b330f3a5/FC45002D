@@ -1,7 +1,7 @@
 {
     "id": "FC45002D",
-    "path": "~/Documents/Code/Australia Client/ETC5513 - COllaborative/Assignment - 2 - GT/data-analysis-pokemon/data-analysis-pokemon.qmd",
-    "project_path": "data-analysis-pokemon.qmd",
+    "path": "~/Documents/Code/Australia Client/ETC5513 - COllaborative/Assignment - 2 - GT/data-analysis-pokemon/example.qmd",
+    "project_path": "example.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "40:0"
+        "rmdVisualModeLocation": "204:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1747055800,
