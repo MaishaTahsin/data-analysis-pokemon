@@ -2,6 +2,9 @@
 
 1. Create a new RStudio Project. In this folder, create a simple qmd file called example.qmd that can be knitted into a HTML file. Show the result of the knitted file.
 
+   ![Plot of cars data](https://github.com/MaishaTahsin/data-analysis-pokemon/blob/main/screenshots/ans_1.png?raw=true)
+
+
 3. From the command line interface, initialise this folder as a git repository and push it to a GitHub repository.
 
 4. Create a new branch called testbranch. Modify the file example.qmd and add the changes to both the local and remote repositories.
