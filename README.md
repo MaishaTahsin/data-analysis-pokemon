@@ -15,7 +15,7 @@
 
 6. Merge the changes in testbranch onto main. Show the conflict and fixing the merge conflict. Push the changes to GitHub, showing the status and changes in GitHub.
 
-      ![Plot of cars data](https://github.com/MaishaTahsin/data-analysis-pokemon/blob/main/screenshots/ans_7.png?raw=true)
+      ![Plot of cars data](https://github.com/MaishaTahsin/data-analysis-pokemon/blob/main/screenshots/ans_6.png?raw=true)
 
 7. Tag this commit v1.0 on main using an annotated tag.
 
