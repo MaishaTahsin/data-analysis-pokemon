@@ -14,4 +14,11 @@ Few changes I have made to push to a new branch called - testbranch.
 1 + 1
 ```
 
-## 
+## Plot
+
+```{r}
+
+
+#Plotting the built-in 'cars' dataset 
+plot(cars, main = "Speed vs Stopping Distance", xlab = "Speed (mph)", ylab = "Stopping Distance (ft)", col = "blue", pch = 19)
+```
