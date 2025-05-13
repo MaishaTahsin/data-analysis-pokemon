@@ -5,13 +5,3 @@ title: "data-analysis-pokemon"
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-
-I am hoping this will create conflict - solved.
-
-Few changes I have made to push to a new branch called - testbranch.
-
-
-```{r}
-1 + 1
-```
