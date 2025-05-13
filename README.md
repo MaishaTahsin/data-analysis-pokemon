@@ -23,8 +23,8 @@
 
 9. Show the commit log in condensed form in the terminal.
 
-       ![Plot of cars data](https://github.com/MaishaTahsin/data-analysis-pokemon/blob/main/screenshots/ans_9.png?raw=true)
+    ![Plot of cars data](https://raw.githubusercontent.com/MaishaTahsin/data-analysis-pokemon/main/screenshots/ans_9.png)
 
-10. On main, create a new section in example.qmd that includes an easy to make plot. Commit the changes, and demonstrate using the command line interface how to undo the commit without losing your local changes.
+11. On main, create a new section in example.qmd that includes an easy to make plot. Commit the changes, and demonstrate using the command line interface how to undo the commit without losing your local changes.
 
        ![Plot of cars data](https://github.com/MaishaTahsin/data-analysis-pokemon/blob/main/screenshots/ans_10.png?raw=true)
